@@ -1,0 +1,4 @@
+userid: 1Secureserv19
+passwd: Servsecu@1954iy2QgHU
+char_ip: 127.0.0.1
+map_ip: 51.254.38.245
